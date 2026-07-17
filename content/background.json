@@ -1,0 +1,391 @@
+{
+  "title": "Introduction to the Book of James",
+  "subtitle": "A historical and literary guide to James’ author, date, Diaspora audience, social setting, Jewish-Christian world, purpose, and structure.",
+  "sections": [
+    {
+      "id": "author-date-and-place",
+      "title": "Author, Date, and Place",
+      "blocks": [
+        {
+          "type": "subsection",
+          "title": "James, the Brother of the Lord",
+          "body": [
+            "The letter opens with the name James—the Greek Iakōbos, corresponding to the Hebrew name Jacob—and the humble title “a servant of God and of the Lord Jesus Christ.” Several New Testament men bore that name. The traditional and historically plausible identification is James, the brother of Jesus who became a leading elder of the Jerusalem church, rather than James the son of Zebedee, who died under Herod Agrippa I, or the less prominent James the son of Alphaeus.",
+            "The Gospels name James among Jesus’ brothers and remember that His brothers did not yet believe during part of His public ministry (Matthew 13:55; Mark 6:3; John 7:5). Paul reports a personal appearance of the risen Christ to James (1 Corinthians 15:7), and Acts soon places Jesus’ brothers among the praying disciples (Acts 1:14). James then emerges at the center of Jerusalem Christianity: Peter sends news to him after escaping prison, he speaks decisively at the Jerusalem Council, Paul meets with him and the elders, and Paul names him among the recognized pillars (Acts 12:17; 15:13–21; 21:17–18; Galatians 1:19; 2:9).",
+            "The writer does not appeal to family privilege. He identifies himself as Christ’s servant and confesses Jesus as Lord. That restraint fits the Jerusalem leader, but the letter never explicitly says “the Lord’s brother,” so the identification should remain a strong historical judgment rather than an unquestionable fact established by the document itself."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "When Was James Written?",
+          "body": [
+            "The letter gives no explicit date. If James the Lord’s brother wrote it, composition must precede his death in the early 60s, and many interpreters place it in the late 40s or the 50s. On that reconstruction, James may be among the earliest New Testament writings; later dates are proposed by scholars who question the traditional authorship or understand the letter’s setting differently.",
+            "Several features fit an early Jewish-Christian environment: the audience is addressed as the twelve tribes, its gathering can be called a synagōgē or assembly, the letter uses the simple greeting also found in Acts 15:23, and disputes over circumcision or Gentile inclusion do not dominate the discussion. James also speaks in a direct wisdom style that closely resembles the teaching of Jesus without formally citing written Gospel texts.",
+            "These observations are suggestive, not decisive. Silence about the Gentile controversy, the Jewish revolt, or Jerusalem’s destruction cannot by itself prove an early date, and similarities to Jesus’ teaching do not reveal whether James knew those sayings orally or in writing. The safest conclusion is that a late-40s-to-50s date fits the traditional authorship well, while the letter itself does not settle the question."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Jerusalem and the Letter’s Greek",
+          "body": [
+            "Jerusalem is the most likely place of composition if its leading James is the author. His known ministry was centered there, and a pastoral letter from the Jerusalem church to Jewish-Christian communities across the Diaspora would be historically natural. The letter’s images of scorching heat, figs and olives, springs, fields, harvesters, drought, and early and latter rain also suit a Palestinian setting, though such imagery was widely intelligible and cannot establish the place on its own.",
+            "James is written in vigorous, polished Greek. Its vocabulary, wordplay, balanced sentences, and memorable rhetoric have sometimes been treated as an objection to authorship by a Galilean Jewish leader. Yet Galilee, Jerusalem, and the Diaspora were multilingual environments in which Greek served commerce, public life, and communication among scattered Jewish communities.",
+            "James may have possessed greater Greek competence than modern readers assume, or a trained secretary may have assisted in composition; neither possibility can be demonstrated. The literary quality of the Greek is a genuine part of the authorship discussion, but it does not by itself identify or exclude the writer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "readers-and-dispersion",
+      "title": "Readers and the Dispersion",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "James addresses “the twelve tribes which are scattered abroad,” language that is at once geographical, historical, and theological: it locates the readers among dispersed communities while presenting them as God’s covenant people gathered around Jesus the Lord of glory."
+        },
+        {
+          "type": "subsection",
+          "title": "The Meaning of Diaspora",
+          "body": [
+            "Diaspora was a familiar designation for Jewish communities living outside the land of Israel. Centuries of exile, resettlement, trade, and migration had established large Jewish populations across Syria, Asia Minor, Egypt, Mesopotamia, Greece, Rome, and other parts of the Mediterranean world. James does not identify one destination, so the letter was probably intended for circulation among several assemblies rather than one local congregation.",
+            "The phrase “twelve tribes” does not require James to know the ancient tribal ancestry of every recipient. It evokes the unity and hope of Israel and applies that identity to communities confessing Israel’s Messiah. Their life in dispersion becomes a spiritual setting as well as a location: they must remain faithful to God while surrounded by competing values and pressures."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Predominantly Jewish Believers in Jesus",
+          "body": [
+            "The readers were probably predominantly Jewish Christians. Their meeting is called an assembly or synagogue; Abraham is “our father”; and James assumes familiarity with the law, the prophets, Job, Elijah, Rahab, the confession that God is one, and Israel’s wisdom tradition. At the same time, they confess Jesus Christ as the Lord of glory and await His coming (James 2:1; 5:7–9).",
+            "Gentile believers may also have belonged to these congregations as the gospel spread. The language of the letter is overwhelmingly Jewish-Christian, but it does not supply a census of the recipients or define the ethnic composition of every assembly."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Migration, Persecution, and Scattered Communities",
+          "body": [
+            "Some readers may have been among believers displaced after Stephen’s death. Acts describes Christians scattered from Jerusalem into Judea, Samaria, Phoenicia, Cyprus, and Antioch (Acts 8:1; 11:19). A Jerusalem leader writing to such communities would have known their vulnerability and their need for endurance.",
+            "That connection remains possible rather than certain. Diaspora was already a broad term for Jews living outside Palestine, so not every recipient need have been a recent refugee. James’s audience may have included long-established Jewish communities, displaced believers, and congregations formed through several streams of migration and mission."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Congregations Under Pressure",
+          "body": [
+            "The trials named in the letter do not point clearly to one empire-wide campaign of persecution. They appear to include poverty, social humiliation, local hostility, economic exploitation, legal vulnerability, internal quarrels, temptation, and uncertainty about the future. James addresses people whose faith is being tested both by hardship from outside and disorder within their assemblies.",
+            "His repeated address to brothers and sisters and his commands to care, confess, pray, restore, and wait show a network of communities bound by mutual responsibility. The letter is not a detached collection of proverbs; it is portable pastoral wisdom for congregations learning to live as God’s people under pressure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-and-economic-setting",
+      "title": "Social and Economic Setting",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "James repeatedly places faith within the unequal social world of the first-century Mediterranean: clothing displays rank, wealth brings access and influence, day laborers depend on timely wages, merchants travel between markets, and poor believers can be humiliated both in assemblies and in courts."
+        },
+        {
+          "type": "subsection",
+          "title": "Poverty, Honor, and Partiality",
+          "body": [
+            "Many readers appear to have been poor or socially insignificant. James tells the lowly believer to rejoice in exaltation and describes the poor as rich in faith and heirs of the kingdom (James 1:9; 2:5). He does not treat poverty as saving merit; he overturns a status system that mistakes material success for spiritual worth and obscures the dignity God gives His people.",
+            "James 2:1–4 pictures a finely dressed visitor receiving an honored place while a poorly clothed person is told to stand or sit below. Whether this recalls a particular event or a realistic moral example, it exposes the attraction of status inside worship. A congregation might view a wealthy attendee as socially useful, but James insists that faith in the Lord of glory cannot assign human worth by clothing, influence, or economic advantage."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Courts, Landowners, and Withheld Wages",
+          "body": [
+            "The letter says that rich people oppress the poor and drag them before judgment seats (James 2:6). Wealthy litigants commonly possessed social advantages unavailable to laborers, tenants, and debtors, although James does not tell us the exact disputes behind his words. His concern is clear: believers must not flatter a power that humiliates the vulnerable or imitate its partiality within the church.",
+            "James 5:1–6 gives the sharpest social denunciation. Landowners have withheld the wages of workers who harvested their fields, and the cries of those laborers have reached the Lord of hosts. For people living close to subsistence, delayed pay could threaten a household’s food and security; withholding it was therefore a grave injustice, not a minor administrative failure.",
+            "The prophetic force of the passage should not be reduced to a complete economic profile of every reader. James may draw upon both observed injustice and the conventional language of Israel’s prophets. In either case, accumulated wealth, luxurious indifference, and unpaid labor become evidence to be heard in God’s court."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Merchants and the Uncertain Future",
+          "body": [
+            "James 4:13–17 addresses merchants who plan a year of travel, trade, and profit in another city. Their words fit the commercial networks of the Diaspora, where goods and people moved along established land and sea routes. James does not condemn business, planning, or profit; he confronts the presumption that human beings control time, opportunity, and life itself.",
+            "The merchant and the exploited laborer reveal opposite faces of the same economic world. One plans as though tomorrow were secure; the other waits for wages already earned. James places both under God’s sovereignty and judgment, calling the powerful to justice and every planner to humility."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Conflict Within the Assemblies",
+          "body": [
+            "External pressure did not automatically produce unity. Competition for influence, irresponsible teaching, bitter envy, slander, grumbling, and quarrels were damaging the communities from within. James traces these conflicts beneath personality and procedure to desires that have become ruling demands (James 3:1–4:3).",
+            "The neglected people named in the letter—widows, orphans, poorly clothed believers, hungry brothers and sisters, sick members, and those wandering from the truth—show what living faith must protect. James’s argument about faith and works arises in this social setting: words that offer peace without food or clothing expose a profession that has not become merciful action."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "religious-and-literary-world",
+      "title": "Religious and Literary World",
+      "blocks": [
+        {
+          "type": "subsection",
+          "title": "Israel’s Scriptures and the Law of Liberty",
+          "body": [
+            "James assumes deep familiarity with Israel’s Scriptures. He appeals to creation and the image of God, Abraham and Rahab, Job and Elijah, the prophets, the commands against adultery and murder, care for widows and laborers, and the confession that God is one. The letter’s denunciation of oppressive wealth and its defense of the vulnerable continue the ethical world of the law, wisdom writings, and prophets.",
+            "James calls God’s instruction “the perfect law of liberty,” “the royal law,” and “the law of liberty.” This is not a program of self-salvation. God gives generously, brings His people forth by the word of truth, and implants the word able to save; obedience is the fitting life of those who have received that gift. The royal law is concentrated in love of neighbor and expressed through impartial mercy."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Jewish Wisdom, Prophetic Warning, and Pastoral Appeal",
+          "body": [
+            "James reads like Jewish wisdom literature, especially Proverbs. It offers practical instruction about speech, desire, anger, wealth, poverty, prayer, planning, patience, friendship, humility, and justice. Short commands, sharp contrasts, and images such as the wave, mirror, bridle, rudder, fire, spring, fading flower, mist, and patient farmer make moral truth memorable.",
+            "The letter also speaks with prophetic severity against oppression, debates imagined objections in a diatribe-like style, and repeatedly returns to pastoral address: “my brethren” and “my beloved brethren.” Its severe warnings are not detached condemnation; they are attempts to reclaim people whose confession and conduct are separating."
+          ]
+        },
+        {
+          "type": "comparison",
+          "title": "Echoes of Jesus’ Teaching",
+          "headers": [
+            "Teaching of Jesus",
+            "James",
+            "Shared Emphasis"
+          ],
+          "rows": [
+            [
+              "Matthew 5:10–12",
+              "James 1:2–4",
+              "Joy and mature endurance when faith is tested"
+            ],
+            [
+              "Matthew 7:7–11",
+              "James 1:5, 17",
+              "Asking the generous Father who gives good gifts"
+            ],
+            [
+              "Matthew 7:24–27",
+              "James 1:22–25",
+              "Hearing God’s word must become faithful practice"
+            ],
+            [
+              "Matthew 5:7, 9",
+              "James 2:13; 3:17–18",
+              "Mercy and peacemaking mark life under God’s rule"
+            ],
+            [
+              "Matthew 6:24",
+              "James 4:4, 8",
+              "Divided loyalty cannot sustain friendship with God"
+            ],
+            [
+              "Matthew 7:1; 23:12",
+              "James 4:10–12",
+              "Humility before God excludes proud judgment of a neighbor"
+            ],
+            [
+              "Matthew 5:34–37",
+              "James 5:12",
+              "Truthful speech should not depend on manipulative oaths"
+            ]
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "A Connected Pastoral Argument",
+          "body": [
+            "The rapid movement between subjects can feel proverbial, yet chapter 1 introduces concerns developed throughout the letter: trials, wisdom, poverty and riches, temptation, the word, speech, obedience, and care for the vulnerable. Testing calls for wisdom; wisdom requires undivided trust; receiving the word leads to doing it; the tongue reveals the heart; conflict reveals disordered desire; patient prayer turns the community toward God.",
+            "James therefore presses one concern from many directions: God seeks a whole people rather than divided hearers whose confession and conduct move in opposite directions. The literary form is best described as a pastoral exhortation or sermon in letter form, written with Jewish-Christian wisdom and skillful Greek rhetoric for circulation among several assemblies."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purpose-and-message",
+      "title": "Purpose and Main Message",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The God who gives wisdom and brings His people to birth through the word of truth calls them to an undivided faith—steadfast in trials, impartial toward people, obedient in action, disciplined in speech, humble in planning, patient in hope, and faithful in prayer."
+        },
+        {
+          "type": "subsection",
+          "title": "Grace That Becomes Obedience",
+          "body": [
+            "James begins with God’s generosity and initiative. Every good gift comes from above; God brings believers to birth by the word of truth; the implanted word is able to save; and God gives greater grace. Obedience is therefore neither self-rescue nor a substitute for grace. It is the mature fruit of receiving God’s gift.",
+            "A person who claims devotion while humiliating the poor, cursing people made in God’s image, ignoring a neighbor’s need, or refusing known good contradicts the word professed. For James, genuine religion joins worship, speech, mercy, economic conduct, prayer, and moral integrity into one answer to God."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Faith and Works in Context",
+          "body": [
+            "James confronts a person who says he has faith while showing no mercy, obedience, or allegiance. Words of concern without food, theological accuracy without trust, and confession without a changed direction are unprofitable. Abraham’s offering of Isaac and Rahab’s protection of the messengers show faith becoming visible under costly conditions.",
+            "Paul and James address different errors. Paul rejects works, status, or law observance as the basis of acceptance with God; James rejects the claim that bare profession is saving faith. Works do not purchase God’s favor, but living faith acts through love and obedience. Their vocabulary overlaps, yet their questions and opponents should not be collapsed into a simple verbal contradiction.",
+            "The date of James is too uncertain to reconstruct a direct exchange with Paul or a particular slogan circulating among the churches. The historically responsible point is narrower: James speaks into communities where confession and conduct are separating and insists that a faith with no living activity is dead."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Wholeness, Patient Hope, and Prayer",
+          "body": [
+            "The letter contrasts wholeness with divided loyalty. The double-minded person asks while refusing settled trust; the same mouth blesses God and curses people; friendship with the world competes with devotion to God. Humility gathers the divided life under God’s rule and produces wisdom that is pure, peaceable, gentle, merciful, impartial, and sincere.",
+            "James finally turns the suffering community toward the coming of the Lord. Patient endurance is active, like a farmer waiting for precious rain. Prayer in suffering, praise in joy, care for the sick, confession, mutual intercession, and restoration of wanderers sustain a people who expect God to judge oppression and complete His saving work."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-themes",
+      "title": "Major Themes",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "Themes That Hold James Together",
+          "headers": [
+            "Theme",
+            "Key Passages",
+            "Emphasis"
+          ],
+          "rows": [
+            [
+              "Trials, endurance, and wisdom",
+              "1:2–8, 12–18; 5:7–11",
+              "Testing can mature faith when believers seek God’s wisdom and remain anchored in His good character"
+            ],
+            [
+              "Hearing and doing",
+              "1:19–27; 2:8–26",
+              "The saving word produces obedient mercy; living faith becomes visible in action"
+            ],
+            [
+              "Rich and poor",
+              "1:9–11; 2:1–7; 4:13–5:6",
+              "Earthly status fades, favoritism violates love, and oppressive wealth faces God’s judgment"
+            ],
+            [
+              "Speech and wisdom",
+              "1:19, 26; 3:1–18; 4:11–12; 5:12",
+              "Words expose the heart; wisdom from above is peaceable, merciful, sincere, and fruitful"
+            ],
+            [
+              "Humility and prayer",
+              "4:1–10, 13–17; 5:13–20",
+              "Dependence on God reshapes desire, plans, suffering, healing, confession, and restoration"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "structure",
+      "title": "The Structure of James",
+      "blocks": [
+        {
+          "type": "comparison",
+          "title": "A Reading Map of James",
+          "headers": [
+            "Passage",
+            "Movement",
+            "Pastoral Emphasis"
+          ],
+          "rows": [
+            [
+              "1:1–27",
+              "Trials, wisdom, temptation, the good Giver, and the implanted word",
+              "Receive God’s word with undivided trust and become a doer who practices pure religion"
+            ],
+            [
+              "2:1–26",
+              "Impartial love and living faith",
+              "Reject status-based judgment; let mercy and obedient action demonstrate faith’s life"
+            ],
+            [
+              "3:1–18",
+              "Teachers, the tongue, and two kinds of wisdom",
+              "Bring speech under discipline and pursue the peaceable fruit of wisdom from above"
+            ],
+            [
+              "4:1–17",
+              "Conflicted desires, humble repentance, and dependent planning",
+              "Submit to God, refuse slander and pride, and acknowledge the Lord’s rule over tomorrow"
+            ],
+            [
+              "5:1–20",
+              "Judgment, patience, truthful speech, prayer, healing, and restoration",
+              "Endure until the Lord comes and sustain the community through honest, prayerful care"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "James is best read slowly and repeatedly. Its images and commands examine the same life from different directions until hearing, believing, speaking, planning, working, waiting, and praying are gathered into one faithful response to God."
+        },
+        {
+          "type": "heading",
+          "title": "The Book at a Glance"
+        },
+        {
+          "type": "comparison",
+          "title": "James at a glance",
+          "headers": [
+            "Detail",
+            "Information"
+          ],
+          "rows": [
+            [
+              "Author",
+              "Traditionally identified as James, the brother of Jesus and leading elder of the Jerusalem church"
+            ],
+            [
+              "Date",
+              "Most likely the late 40s or the 50s, if the traditional authorship is accepted"
+            ],
+            [
+              "Place of writing",
+              "Most likely Jerusalem"
+            ],
+            [
+              "Original readers",
+              "Predominantly Jewish believers in Jesus among the Diaspora, probably gathered in several scattered assemblies"
+            ],
+            [
+              "Social setting",
+              "Congregations facing poverty, economic inequality, exploitation, legal vulnerability, social humiliation, and internal conflict"
+            ],
+            [
+              "Literary character",
+              "A pastoral exhortation or sermon in letter form, shaped by Jewish-Christian wisdom and polished Greek rhetoric"
+            ],
+            [
+              "Central message",
+              "God calls His people to an undivided faith that becomes steadfast endurance, impartial mercy, obedient action, disciplined speech, humble dependence, and faithful prayer"
+            ],
+            [
+              "Key passage",
+              "“But be ye doers of the word, and not hearers only, deceiving your own selves.” (James 1:22)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early-reception",
+      "title": "Early Reception and Canon",
+      "blocks": [
+        {
+          "type": "subsection",
+          "title": "A Letter That Circulated More Slowly",
+          "body": [
+            "Possible echoes of James appear in early Christian literature, but clear named use becomes visible with Origen in the early third century. In the fourth century, Eusebius described James among writings that were disputed yet recognized by many and observed that relatively few earlier writers had mentioned it.",
+            "This slower visibility does not mean the letter was simply rejected. A general epistle addressed to scattered Jewish-Christian communities may have circulated differently from letters preserved by prominent Gentile churches. Reception also varied by region, especially in parts of the Syrian and Western churches, before James gained broad recognition within the New Testament canon."
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "The Historical Picture in Summary",
+          "body": [
+            "The traditional reconstruction places James, the brother of the Lord and leading elder of Jerusalem, writing from Jerusalem in the late 40s or the 50s to predominantly Jewish believers across the Diaspora. Each part of that reconstruction should be held with appropriate caution, but together it explains the letter’s Jewish scriptural world, Jerusalem connections, broad address, early congregational setting, and urgent pastoral authority.",
+            "The readers faced economic inequality, social humiliation, legal and labor vulnerability, internal rivalry, careless speech, and the temptation to let confession become detached from conduct. James answers with the wisdom of Israel shaped by the teaching and lordship of Jesus, calling the scattered church to steadfast, merciful, humble, prayerful, and embodied faith as it waits for the coming Judge and Lord."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1542 @@
+{
+  "chapterNumber": 1,
+  "title": "Wisdom That Endures and Obeys",
+  "summary": "James calls believers to endure trials with wisdom, resist temptation, obey God’s word, and practice active faith.",
+  "historicalContext": "The address to “the twelve tribes which are scattered abroad” presents the readers as God’s covenant people living in dispersion. The letter speaks naturally into communities acquainted with Israel’s Scriptures, wisdom instruction, economic vulnerability, and the social pressures of life among wider populations. James does not narrate a single crisis; he equips believers for recurring tests involving poverty and wealth, speech, anger, desire, worship, and care for those without ordinary protection.",
+  "literaryContext": "This opening chapter functions as an overture to the whole letter. It introduces trials, wisdom, divided loyalty, poverty and riches, desire, speech, the implanted word, obedient hearing, mercy toward the vulnerable, and resistance to the world—subjects James will revisit and develop. The movement is coherent rather than merely proverbial: testing calls for wisdom; wisdom depends on undivided trust; desire explains temptation; God’s good gift culminates in new birth by the word; and recipients of that word must become doers.",
+  "themes": [
+    "Steadfast faith under varied trials",
+    "Wisdom received from the generous God",
+    "The danger of divided loyalty and disordered desire",
+    "God’s unchanging goodness and the new birth",
+    "Hearing that becomes obedient action",
+    "Merciful and morally unspotted devotion"
+  ],
+  "outline": [
+    {
+      "range": "James 1:1",
+      "title": "Greeting to God’s Scattered People",
+      "summary": "James identifies himself as a servant and addresses believers through the covenant image of the twelve tribes in dispersion."
+    },
+    {
+      "range": "James 1:2-8",
+      "title": "Trials, Steadfastness, and Wisdom",
+      "summary": "Believers are to evaluate trials by their maturing purpose and seek wisdom from God with undivided trust."
+    },
+    {
+      "range": "James 1:9-12",
+      "title": "Reversal, Frailty, and the Crown of Life",
+      "summary": "The lowly and the rich are taught to view status in light of God’s kingdom, human transience, and the promised life beyond testing."
+    },
+    {
+      "range": "James 1:13-18",
+      "title": "Desire’s Death and the Father’s Good Gift",
+      "summary": "James distinguishes temptation to evil from testing, locates temptation in desire, and contrasts its deadly course with God’s life-giving word."
+    },
+    {
+      "range": "James 1:19-25",
+      "title": "Receiving and Doing the Word",
+      "summary": "Humble listening, restrained anger, and sustained obedience mark those who truly receive the word that saves."
+    },
+    {
+      "range": "James 1:26-27",
+      "title": "Devotion God Calls Pure",
+      "summary": "Controlled speech, active care for the vulnerable, and integrity amid the world expose the difference between empty and genuine religion."
+    }
+  ],
+  "verses": [
+    {
+      "verse": "James 1:1",
+      "bibleText": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Acts 12:17",
+        "Acts 15:13-23",
+        "Galatians 1:19",
+        "1 Peter 1:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The unqualified name “James” most naturally points to the prominent James known in the early church as the Lord’s brother and as a leading figure among the believers in Jerusalem. The letter itself does not appeal to that family relationship. James identifies himself simply as a servant, refusing to build his authority on earthly closeness to Jesus. The risen Christ is no longer approached merely as a relative from Nazareth but confessed as “the Lord Jesus Christ.” James belongs to Him, obeys Him, and speaks under His authority.\n\nBy placing his service to God alongside his service to the Lord Jesus Christ, James expresses a remarkably high understanding of Jesus. The Father and the Son are not competing masters. To serve the living God is also to serve Jesus as Messiah and Lord. This confession quietly establishes the Christ-centered foundation of the letter, even though Jesus will be named explicitly only once more.\n\n“The twelve tribes” recalls the whole covenant people descended from the sons of Jacob. “Scattered abroad” points to the dispersion of Jewish communities beyond Palestine and may particularly include Jewish believers who had been displaced by persecution. The title also carries theological weight. Through the Messiah, God was gathering a renewed people who stood within the history of Israel and awaited the fulfillment of His promises. James therefore writes to communities living as God’s people amid foreign cultures, economic pressures, social divisions, and spiritual trials.\n\nThe brief greeting follows the ordinary form of an ancient letter, yet its simplicity prepares for an urgent message. James will not begin with lengthy ceremony. He writes as a servant to scattered servants, calling them to a faith that remains whole under pressure and becomes visible in obedience, mercy, disciplined speech, and steadfast hope.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "δοῦλος (doulos) — servant",
+          "explanation": "The term denotes one who belongs to a master and lives under that master’s authority. In biblical usage it can also carry the dignity of being commissioned for God’s service. James grounds his authority in submission rather than status.",
+          "scriptureReferences": [
+            "Romans 1:1",
+            "Philippians 1:1"
+          ]
+        },
+        {
+          "term": "ταῖς δώδεκα φυλαῖς ταῖς ἐν τῇ διασπορᾷ (tais dōdeka phylais tais en tē diaspora) — the twelve tribes which are scattered abroad",
+          "explanation": "The phrase evokes Israel’s twelve-tribe identity and the Jewish dispersion among the nations. It most likely addresses believers in Jesus with a strong Jewish background, while also presenting them as God’s covenant people living away from their final homeland.",
+          "scriptureReferences": [
+            "Acts 26:7",
+            "1 Peter 1:1"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:2",
+      "bibleText": "My brethren, count it all joy when ye fall into divers temptations;",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Matthew 5:11-12",
+        "Romans 5:3-5",
+        "1 Peter 1:6-7",
+        "Hebrews 12:10-11"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "James moves immediately from greeting to hardship because adversity appears to have shaped the lives of his scattered hearers. “When ye fall into” does not describe falling spiritually. It pictures unexpectedly encountering something, much as a traveler might suddenly find himself surrounded by danger. Trials are not rare interruptions in Christian life. James says “when,” not “if.” They may include persecution, poverty, sickness, loss, injustice, disappointment, or any pressure that tests confidence in God.\n\nTo “count” such experiences as joy is an act of spiritual judgment. James does not command believers to enjoy pain, deny grief, or call evil good. Tears, lament, and sorrow remain appropriate responses to suffering. The joy lies in what faith knows God can accomplish through the trial. Circumstances that appear destructive need not have the final word. Under God’s providence, they can become the setting in which trust is purified, endurance develops, and the believer is drawn into deeper dependence on Him.\n\n“All joy” describes genuine and wholehearted joy rather than the absence of every other emotion. A Christian may grieve intensely and still possess a deeper confidence that suffering cannot separate him from God’s love or frustrate God’s saving purpose. This joy is therefore rooted not in the trial itself but in God’s faithfulness within it.\n\nJames’s command requires a perspective different from the world’s. The world measures a good life largely by comfort, security, recognition, and control. Faith measures life by fellowship with God and growth toward spiritual wholeness. Trials expose which standard governs the heart. They strip away the illusion that earthly stability can sustain us and invite a more settled reliance on the One who does not change. Such joy is neither natural optimism nor emotional pretense. It is the deliberate response of faith looking beyond the present pressure to the character God is forming and the eternal life He has promised.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "πειρασμοῖς ποικίλοις (peirasmois poikilois) — divers temptations",
+          "explanation": "Here peirasmos refers primarily to trials, pressures, and tests rather than enticements to sin. Poikilos means varied or many-colored, emphasizing that hardship comes in numerous forms.",
+          "scriptureReferences": [
+            "1 Peter 1:6",
+            "James 1:12"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:3",
+      "bibleText": "Knowing this, that the trying of your faith worketh patience.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Romans 5:3-4",
+        "1 Peter 1:7",
+        "Hebrews 10:36",
+        "Revelation 14:12"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The command to rejoice rests on something James’s hearers already know: tested faith produces endurance. Their knowledge is not merely theoretical. Having followed Christ amid dispersion and hardship, they have begun to discover that faith exercised under pressure becomes stronger and steadier.\n\nTesting does not create faith out of nothing. It reveals, refines, and strengthens the faith already directed toward God. As heat exposes the quality of metal, trials uncover the actual condition of the heart. Superficial confidence may collapse when circumstances change, but faith rooted in God learns to cling to Him even when His purposes are not yet visible. The value lies not in suffering considered by itself but in what happens when suffering is met with trust.\n\nThe result is “patience,” though the English word can sound too passive. James describes resilient staying power. This endurance refuses to abandon God, retaliate against others, surrender to despair, or seek relief through disobedience. It keeps walking in the direction of faithfulness even when the path is long and painful.\n\nEndurance is produced through repeated reliance on God. No believer develops it merely by admiring it. The capacity to stand is formed by standing—receiving grace for the present trial, obeying in the present decision, and continuing when immediate deliverance does not come. Such perseverance is not meritorious self-salvation. It is faith remaining attached to the God who sustains it. The trial becomes productive because divine grace is active and the believer continues to respond in trust.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "τὸ δοκίμιον ὑμῶν τῆς πίστεως (to dokimion hymōn tēs pisteōs) — the trying of your faith",
+          "explanation": "The expression refers to the testing or proving process through which faith is refined and demonstrated as genuine. The image is comparable to metal being tested and purified.",
+          "scriptureReferences": [
+            "1 Peter 1:7",
+            "Psalm 66:10"
+          ]
+        },
+        {
+          "term": "ὑπομονή (hypomonē) — patience",
+          "explanation": "This is active steadfastness—the capacity to remain faithful under pressure. It is more than passive waiting or quiet resignation.",
+          "scriptureReferences": [
+            "Romans 5:3",
+            "Hebrews 10:36"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:4",
+      "bibleText": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Matthew 5:48",
+        "Ephesians 4:13",
+        "Colossians 1:28",
+        "James 3:2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Endurance must be permitted to complete its work. A trial can contribute to maturity, but that result is not automatic. Resentment, unbelief, retaliation, or persistent refusal of God’s instruction can interrupt the formative process. James therefore calls believers to remain under God’s hand long enough for steadfastness to produce its intended fruit.\n\nThe “perfect work” is the full effect of endurance. God is not concerned merely with helping His people survive isolated crises. He is shaping persons whose faith, speech, desires, relationships, and actions increasingly form a coherent whole. The goal is maturity rather than fragmentation—a life in which confession and conduct agree.\n\n“Perfect and entire” does not announce that believers have already passed beyond growth, temptation, or dependence on grace. James himself will acknowledge that all stumble in many ways. The language points to spiritual completeness: no area deliberately withheld from God, no divided allegiance accepted as normal, and no necessary quality of Christian character left undeveloped. This wholeness stands in direct contrast to the double-minded instability described in verses 6-8.\n\n“Wanting nothing” means lacking nothing required for mature faithfulness. The believer may still lack wealth, health, influence, or ease, but need not lack the spiritual resources God supplies. Trials expose deficiencies so that grace may address them. Endurance teaches the heart to draw its stability from God rather than from favorable conditions. The mature Christian is therefore not the person who has escaped every hardship, but the one whose loyalty to God has become increasingly settled through hardship.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "τέλειοι καὶ ὁλόκληροι (teleioi kai holoklēroi) — perfect and entire",
+          "explanation": "Teleios emphasizes maturity or completion, while holoklēros describes wholeness with no essential part missing. Together they portray an integrated, fully developed Christian character.",
+          "scriptureReferences": [
+            "Matthew 5:48",
+            "Colossians 1:28"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:5",
+      "bibleText": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "1 Kings 3:9-12",
+        "Proverbs 2:6",
+        "Matthew 7:7-11",
+        "James 3:17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The repeated idea of lacking links this appeal with the preceding verse. Believers are to become complete and lacking in nothing, yet James knows that they often lack wisdom. The solution is not despair or pretense but prayer.\n\nWisdom is more than information about why a particular trial occurred. Scripture does not promise that every hidden cause will be explained. Wisdom enables a person to see the trial within the larger reality of God’s character, promises, and purposes. It discerns what faithfulness requires now: when to speak, when to remain silent, when to act, when to wait, what desires must be resisted, and which values must govern a decision. Knowledge can describe a situation; wisdom helps one live obediently within it.\n\nGod is presented as the generous Giver. He does not reserve wisdom for an intellectual or spiritual elite. Those conscious of their need are invited to ask. His giving is “liberal” because it flows from an undivided goodness. Human benefactors may give reluctantly, seek recognition, or remind recipients of previous failures. God “upbraideth not.” He does not humiliate the petitioner for needing help or repeatedly use past ignorance as a weapon against him.\n\nThe promise that wisdom “shall be given” belongs specifically to this request. It is not a guarantee that every desire expressed in prayer will be granted exactly as imagined. God promises the wisdom needed to walk faithfully with Him. That wisdom ordinarily comes through His Word, the illumination of the Holy Spirit, godly counsel, and providential circumstances interpreted according to Scripture.\n\nAsking acknowledges that maturity is not a self-produced achievement. The wisdom required to benefit from trials is itself a gift of grace. God supplies what He commands, yet He does not bypass the believer’s will or judgment. The person who asks must be willing to receive God’s answer and walk in the path it reveals.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "σοφία (sophia) — wisdom",
+          "explanation": "Biblical wisdom is practical understanding that perceives life from God’s perspective and chooses conduct consistent with His will. In this context it especially enables believers to respond faithfully to trials.",
+          "scriptureReferences": [
+            "Proverbs 2:6",
+            "James 3:13-17"
+          ]
+        },
+        {
+          "term": "ἁπλῶς (haplōs) — liberally",
+          "explanation": "The word can express generosity, sincerity, and singleness of purpose. God gives without concealed motives, reluctance, or divided intention.",
+          "scriptureReferences": [
+            "Matthew 7:11",
+            "Romans 12:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:6",
+      "bibleText": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Matthew 6:24",
+        "Mark 11:22-24",
+        "Ephesians 4:14",
+        "James 4:8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Prayer for wisdom must arise from faith. This does not mean generating absolute emotional certainty or persuading oneself that a preferred outcome is guaranteed. The request concerns wisdom, and faith trusts that God is both willing and able to provide what is truly needed. It approaches Him with confidence in His character while remaining submitted to His judgment.\n\nJames is addressing more than an honest question, a struggle to understand, or a passing tremor of confidence. Biblical faith can cry for help while feeling distressed. The wavering condemned here is a deeper division of allegiance. Such a person asks for God’s wisdom while reserving the right to reject it, desires divine guidance while remaining attached to the world’s values, or seeks God’s help without entrusting the direction of life to Him.\n\nThe wave of the sea provides a vivid picture. Its movement is governed by forces outside itself. One gust drives it in one direction, and another turns it elsewhere. In the same way, a divided person is controlled by changing circumstances, desires, fears, and social pressures. When obedience appears beneficial, he moves toward God; when it becomes costly, he moves away.\n\nFaith gives the life a settled center. It does not remove every emotion or question, but it establishes where final loyalty lies. The believer asks God for wisdom because God’s will is trusted as good even before the answer is known. Such prayer says, in effect, “Give me light, and by Your grace I will walk in it.” That posture differs fundamentally from seeking divine approval for a decision already ruled by self-interest.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "διακρινόμενος (diakrinomenos) — wavering",
+          "explanation": "In this setting the word describes inward division or hesitation that prevents wholehearted trust. The concern is deeper than an honest question or momentary emotional uncertainty.",
+          "scriptureReferences": [
+            "Matthew 21:21",
+            "James 4:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:7",
+      "bibleText": "For let not that man think that he shall receive any thing of the Lord.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Psalm 66:18",
+        "Matthew 6:24",
+        "James 4:3",
+        "1 John 5:14"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The warning is intentionally direct. A person who approaches God with divided loyalty must not presume that the mere act of asking guarantees an answer. The immediate subject is the wisdom promised in verse 5. James is not denying that God grants daily mercies to all people, nor is he teaching that answers to prayer are earned by flawless performance.\n\nDivided allegiance makes the requested gift impossible to receive rightly. Wisdom is not merely information that can be added to an unchanged life. It calls for trust, repentance, and obedient action. A person who asks God to reveal the path while remaining determined to follow another path is not truly seeking wisdom.\n\n“Of the Lord” reminds the petitioner that prayer is addressed to the sovereign One, not to a power that can be manipulated. God gives graciously, but His generosity never serves double-minded rebellion. The warning therefore invites self-examination rather than despair. The remedy is not to stop praying but to come honestly, surrender competing loyalties, and ask for the undivided heart that is willing to receive God’s answer.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:8",
+      "bibleText": "A double minded man is unstable in all his ways.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Psalm 12:2",
+        "Matthew 6:24",
+        "James 4:4",
+        "James 4:8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The wavering petitioner is now described as “double minded,” literally double-souled. James is not speaking merely of someone who presents one face publicly and another privately. The person is facing two directions inwardly. One part desires God and His wisdom; another remains committed to self-rule, worldly approval, or cherished desire.\n\nSuch division produces instability “in all his ways.” The plural extends the problem beyond a single unanswered prayer. Divided worship eventually affects speech, relationships, money, moral choices, and responses to suffering. Without a settled center, conduct shifts according to whichever desire or pressure is strongest at the moment.\n\nJames’s later call to the double-minded is to purify their hearts. The opposite of double-mindedness is not greater self-confidence but wholehearted devotion to God. Stability comes when the heart ceases attempting to serve two masters and rests its identity, hope, and direction in the Lord. Trials then remain painful, but they no longer possess authority to redefine whom the believer serves.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "δίψυχος (dipsychos) — double minded",
+          "explanation": "Literally “double-souled,” the expression describes a person divided at the center of life, attempting to maintain incompatible loyalties. It is not merely social insincerity but spiritual fragmentation.",
+          "scriptureReferences": [
+            "Matthew 6:24",
+            "James 4:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:9",
+      "bibleText": "Let the brother of low degree rejoice in that he is exalted:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Luke 1:52-53",
+        "Luke 6:20",
+        "1 Corinthians 1:26-31",
+        "James 2:5"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "James now applies heavenly wisdom to one of the most powerful divisions in society: the contrast between poverty and wealth. The “brother of low degree” is a believer whose social position offers little honor, security, or influence. Such a person might easily interpret hardship as evidence of divine rejection or view the rich with envy.\n\nHe is told to rejoice, or boast, “in that he is exalted.” This is not pride in poverty and certainly not a claim that material deprivation earns salvation. His exaltation lies in what God has graciously made him in Christ. Though disregarded by society, he belongs to God’s covenant family, has access to divine wisdom, is rich in faith, and stands as an heir of the promised kingdom.\n\nThe gospel therefore gives him a new measure of worth. His identity is not determined by possessions, occupation, clothing, social connections, or the judgment of the powerful. God’s choice and promise confer a dignity that circumstances cannot remove. The lowly believer may still seek honest work, justice, and relief from suffering, but he need not accept society’s verdict that poverty makes him less valuable.\n\nThis reversal anticipates a major concern of the letter. A congregation that has learned to see the poor as God sees them cannot humiliate them or favor the wealthy. The lowly brother’s exaltation is both present and future: present in his relationship with God, and future in the full inheritance revealed when God’s kingdom is established. Wisdom teaches him to evaluate today’s low position in the light of that coming reality.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "ὁ ἀδελφὸς ὁ ταπεινός (ho adelphos ho tapeinos) — brother of low degree",
+          "explanation": "The phrase describes a fellow believer of low social or economic standing. Tapeinos can denote humility, but the contrast with the rich indicates that outwardly disadvantaged status is prominent here.",
+          "scriptureReferences": [
+            "Luke 1:52",
+            "James 2:5"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:10",
+      "bibleText": "But the rich, in that he is made low: because as the flower of the grass he shall pass away.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Isaiah 40:6-8",
+        "Jeremiah 9:23-24",
+        "Luke 12:15-21",
+        "1 Timothy 6:17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The rich person is set in deliberate contrast with the lowly brother. The grammar naturally carries the command to rejoice from verse 9 into verse 10, which suggests that James may initially be addressing a rich believer. Yet the warning that follows resembles his later denunciations of those whose wealth has become an instrument of pride and oppression. The wording therefore speaks both pastorally to wealthy Christians and prophetically to every person who trusts in riches.\n\nThe rich believer is to rejoice in humiliation. He must see himself stripped of the false superiority that wealth can create. Before God he is a dependent sinner who lives by mercy, receives salvation as a gift, and stands beside the poorest believer as a brother. Following the despised Messiah may also bring social reproach, financial loss, or the surrender of privileges once used for self-advancement. Such humbling is a reason for spiritual rejoicing because it frees the heart from a deceptive identity.\n\nIf the rich person refuses that humility, his humiliation will arrive in another form. The flower of the field may appear splendid, yet its beauty is fragile. Wealth creates an impression of permanence while remaining unable to prevent sickness, death, divine judgment, or the collapse of the structures that sustain it. James condemns neither diligent work nor possession considered by itself. Scripture’s concern is how wealth is gained, where trust is placed, and whether resources are used in love and stewardship.\n\nThe poor believer must not envy riches, and the rich believer must not glory in them. Both are called to evaluate themselves before God. One rejoices that grace has raised him beyond society’s contempt; the other rejoices that grace has brought him down from society’s false pedestal. What matters eternally is not the amount held in the hand but whether the heart knows, loves, and obeys the Lord.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "ἐν τῇ ταπεινώσει αὐτοῦ (en tē tapeinōsei autou) — in that he is made low",
+          "explanation": "The phrase means “in his humiliation” or “in his low estate.” It may describe the rich believer’s humble standing before God, the loss of worldly status through discipleship, or the ultimate abasement of wealth at judgment.",
+          "scriptureReferences": [
+            "Luke 14:11",
+            "Philippians 3:7-9"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:11",
+      "bibleText": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Isaiah 40:6-8",
+        "Psalm 103:15-16",
+        "Luke 12:16-21",
+        "James 4:13-14"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The field image is expanded so that its force cannot be missed. Grass and flowers may flourish in the cool of morning, only to wither under intense heat or a drying wind. Their beauty is real, but it is temporary and dependent on conditions they cannot control.\n\nSo the rich person will fade “in his ways,” a phrase that can describe his pursuits, journeys, business ventures, or characteristic manner of life. James pictures someone actively occupied with plans when mortality overtakes him. The warning anticipates the merchants of chapter 4 who confidently arrange tomorrow’s profits without acknowledging that life itself is a vapor.\n\nRiches are especially dangerous because they can conceal human frailty. They purchase comfort, influence, and temporary protection, creating the impression that the possessor controls the future. Yet the same person remains as dependent on God for breath as the poorest laborer. Death not only removes possessions; it exposes the inadequacy of the identity built upon them.\n\nIsaiah’s original contrast places fading humanity beside the enduring word of God. James preserves that contrast throughout the chapter. Human glory withers, but the word of truth gives new birth, the implanted word saves, and the perfect law continues to guide. Wisdom therefore chooses the permanent over the impressive. The rich person who receives that wisdom can use possessions as a steward; the one who rejects it will fade with the world to which his heart is attached.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "καύσων (kausōn) — burning heat",
+          "explanation": "The term may denote scorching heat or a hot, drying wind. Either sense depicts conditions capable of withering vegetation with startling speed.",
+          "scriptureReferences": [
+            "Jonah 4:8",
+            "Hosea 13:15"
+          ]
+        },
+        {
+          "term": "ἡ εὐπρέπεια τοῦ προσώπου αὐτοῦ (hē euprepeia tou prosōpou autou) — the grace of the fashion of it",
+          "explanation": "The KJV phrase means the beauty or attractiveness of the flower’s appearance. “Grace” here refers to outward loveliness, not saving grace.",
+          "scriptureReferences": [
+            "Isaiah 40:7",
+            "1 Peter 1:24"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:12",
+      "bibleText": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Matthew 24:13",
+        "2 Timothy 4:7-8",
+        "Revelation 2:10",
+        "James 2:5",
+        "James 5:7-8"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "A beatitude brings the opening discussion of trials toward its climax. The blessed person is not the one who never suffers but the one who continues loving and trusting God through suffering. The same Greek word translated “temptation” can refer either to an external trial or an inward enticement. Here the emphasis remains on a test endured faithfully, though verse 13 will show how a trial can become an occasion for sinful temptation.\n\n“When he is tried” means that he has stood the test and been shown approved. Endurance does not earn God’s favor as wages. It reveals the reality of a faith sustained by grace. The decisive description is “them that love him.” Perseverance grows from loyal love for God, not from a mechanical effort to accumulate merit. The believer continues because God has become more precious than immediate relief.\n\nThe promised reward is “the crown of life.” A victor’s wreath represented honor after a completed contest. Here the crown is life itself—the fullness of eternal life in God’s kingdom. James looks toward final vindication, when the Lord returns, raises His people, and brings their struggle to an end. The hope is therefore bodily and eschatological. Nothing in the phrase requires a naturally immortal soul receiving its final reward independently of resurrection. The life promised by God reaches its fullness in victory over death.\n\nThe promise offers assurance without removing the necessity of perseverance. Grace does not make continued faith irrelevant; it makes continued faith possible. Nor does the warning imply that believers must sustain themselves by unaided willpower. The God who promises the crown is also the generous Giver of wisdom and every good gift. As believers continue receiving His grace, trials become the place where love proves stronger than fear, desire, or worldly pressure.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "ὑπομένει πειρασμόν (hypomenei peirasmon) — endureth temptation",
+          "explanation": "In this verse the expression means remaining steadfast under a trial or test. The emphasis is continued loyalty rather than merely experiencing hardship.",
+          "scriptureReferences": [
+            "Matthew 24:13",
+            "Hebrews 10:36"
+          ]
+        },
+        {
+          "term": "στέφανον τῆς ζωῆς (stephanon tēs zōēs) — crown of life",
+          "explanation": "Stephanos was a victor’s wreath. The phrase most naturally presents life itself—eternal life in God’s coming kingdom—as the crown granted to those who remain faithful.",
+          "scriptureReferences": [
+            "Revelation 2:10",
+            "2 Timothy 4:8"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:13",
+      "bibleText": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 22:1",
+        "Matthew 4:1-3",
+        "1 Corinthians 10:13",
+        "James 4:7"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "James now distinguishes two meanings carried by the same family of Greek words. A trial tests faith and can produce endurance; temptation entices a person to disobey God. Scripture may speak of God testing His servants by placing faith in circumstances where its allegiance becomes visible. God tested Abraham, yet He never desired Abraham’s moral ruin. James categorically denies that God seduces anyone into evil.\n\nA person under pressure may be tempted to blame God: if God allowed the circumstances, perhaps He is responsible for the sinful response. James refuses that transfer of guilt. God’s character makes enticement to evil impossible. Evil has no attractive power over Him, and He never acts with the hidden purpose of causing one of His creatures to fall.\n\nThe distinction protects both divine goodness and human responsibility. A difficult circumstance may lie within God’s permissive providence, but the sinful use made of that circumstance does not come from Him. Poverty may become an occasion for theft, mistreatment an occasion for hatred, or prosperity an occasion for pride. God may use the pressure to strengthen faith; He never supplies the evil desire or commands the sinful response.\n\nJames is not denying the activity of Satan, whom he will later tell believers to resist. His immediate purpose is to remove the excuse that sin is forced upon us by God. Even when the tempter exploits circumstances, God remains faithful and provides a way to remain obedient. The believer can therefore seek divine help without suspicion, confident that the One who tests faith never conspires against it.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "ἀπείραστός ἐστιν κακῶν (apeirastos estin kakōn) — cannot be tempted with evil",
+          "explanation": "The phrase describes God as untouched by evil’s attraction and incapable of being drawn toward it. His holy nature excludes any desire to entice another person into sin.",
+          "scriptureReferences": [
+            "Habakkuk 1:13",
+            "1 John 1:5"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:14",
+      "bibleText": "But every man is tempted, when he is drawn away of his own lust, and enticed.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Mark 7:20-23",
+        "Romans 7:8",
+        "James 4:1-2",
+        "1 Peter 5:8-9"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Having denied that temptation originates in God, James turns inward. Each person is tempted when drawn and baited by “his own lust.” The possessive is important. Circumstances differ, and Satan may entice, but temptation gains personal power through desires within the heart.\n\nDesire as such is part of created human life. Hunger, affection, rest, achievement, and companionship are not inherently evil. The desire described here has become disordered—seeking a legitimate object in a forbidden way, demanding an object God has withheld, or pursuing something contrary to His character. It places self-gratification above loyalty to God and love for others.\n\nThe language resembles hunting or fishing. Bait succeeds by appealing to appetite while hiding the hook. Sin rarely presents itself honestly as alienation from God and movement toward death. It promises relief, pleasure, vindication, control, or advantage. The heart focuses on the apparent benefit and minimizes the command of God and the consequences of rebellion.\n\nTemptation itself is not identical with the completed act of sin. Jesus was truly tempted and remained sinless. Yet the disordered desire James describes must not be entertained as harmless. When the will welcomes its promise, rehearses it, excuses it, and moves toward consent, the bait is being taken.\n\nPersonal responsibility does not mean victory must be achieved through unaided willpower. Recognition of the internal source should drive the believer toward Christ, prayer, Scripture, and decisive resistance. Grace teaches the heart to expose the bait, distrust the promise of sin, and redirect desire toward the good gifts that come from above.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "τῆς ἰδίας ἐπιθυμίας (tēs idias epithymias) — his own lust",
+          "explanation": "Epithymia can mean desire in a general sense, but here it denotes desire disordered by self-centeredness and directed contrary to God’s will.",
+          "scriptureReferences": [
+            "Mark 4:19",
+            "James 4:1-2"
+          ]
+        },
+        {
+          "term": "ἐξελκόμενος καὶ δελεαζόμενος (exelkomenos kai deleazomenos) — drawn away, and enticed",
+          "explanation": "The paired words evoke being drawn out and lured by bait. Temptation disguises danger by presenting something desirable while concealing its destructive end.",
+          "scriptureReferences": [
+            "Proverbs 7:21-23",
+            "2 Peter 2:14"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:15",
+      "bibleText": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 3:6",
+        "Genesis 3:19",
+        "Psalm 7:14",
+        "Romans 6:23",
+        "James 1:18"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The imagery shifts from bait and capture to conception and birth. Desire, when embraced, conceives and gives birth to sin. Sin then grows toward maturity and produces death. James presents a moral process in which the end is already contained within the beginning.\n\nThe initial appearance of temptation is not the same as the completed act of sin. Yet the desire in view is already turned away from God, and consent allows it to conceive. Sin may then appear in thought, speech, action, or deliberate neglect of known duty. What begins privately in desire eventually seeks visible expression.\n\n“Sin, when it is finished” describes sin brought to maturity or allowed to complete its work. Sin promises enlargement of life but steadily destroys it. It damages conscience, distorts relationships, weakens spiritual perception, and separates the sinner from the Source of life. Its ultimate wage is death—the final opposite of the crown of life promised in verse 12. James offers no support for an endless life maintained in conscious torment. The completed fruit of sin is death, while eternal life is God’s gift to those who love Him.\n\nThe progression is solemn, but it is not a declaration that every person who has sinned has passed beyond grace. Repentance interrupts the process because Christ forgives, cleanses, and restores those who turn to Him. James describes sin’s natural direction when it is protected and allowed to mature. The warning calls believers to confront desire early rather than waiting until it has hardened into action and habit.\n\nA deliberate contrast is emerging. Disordered desire gives birth to sin, and sin gives birth to death; in verse 18, God will give birth to His people through the word of truth. Two generative powers and two destinies stand before the hearer. One begins with self-centered desire and ends in death. The other begins with God’s gracious will and leads into the renewed creation.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "συλλαβοῦσα ... τίκτει ... ἀποτελεσθεῖσα (syllabousa ... tiktei ... apotelestheisa) — conceived ... bringeth forth ... finished",
+          "explanation": "James develops the imagery of conception, birth, and maturity. Desire welcomed by the will gives birth to sin, and sin allowed to reach its full development produces death.",
+          "scriptureReferences": [
+            "Psalm 7:14",
+            "Romans 6:21-23"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:16",
+      "bibleText": "Do not err, my beloved brethren.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "1 Corinthians 6:9",
+        "Galatians 6:7",
+        "James 1:22",
+        "James 1:26"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "“Do not err” is a warning against being deceived or led astray. The danger is not merely a mistake in abstract theology. A false view of God alters conduct. When people imagine that God is responsible for their temptation, they excuse their own desires and become less willing to repent. When they forget that every truly good gift comes from Him, they seek fulfillment in sources that lead toward death.\n\nJames adds “my beloved brethren,” joining urgency with affection. His severe warning comes from pastoral concern, not contempt. Self-deception will recur throughout the chapter because it is one of the greatest threats to genuine faith. A person may misidentify the source of temptation, hear without obeying, or practice outward religion while leaving the tongue uncontrolled.\n\nThe remedy is clear sight: evil must be traced to its true moral source, and goodness must be traced to God. The following verses therefore turn from the false birth produced by desire to the gracious giving and life-giving action of the Father.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:17",
+      "bibleText": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Genesis 1:14-18",
+        "Psalm 136:7-9",
+        "Malachi 3:6",
+        "Matthew 7:11",
+        "James 3:17"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "God is not the source of enticement to evil; He is the source of all that is genuinely good. James repeats the idea of giving, reinforcing the portrait of God introduced in verse 5. His gifts are good in their character and perfect in their fitness for His saving purpose. What comes from Him may not always feel pleasant, but it never carries a hidden intention to corrupt or destroy.\n\n“From above” identifies the origin of the gift. Later James will distinguish wisdom from above from wisdom that is earthly and demonic. Whatever leads toward purity, peace, mercy, integrity, and obedient life bears the character of heaven. Sin’s bait rises from disordered desire; saving wisdom and every spiritual provision descend from God.\n\n“Father of lights” reaches back to creation. The sun, moon, and stars were often treated in the ancient world as powers that controlled human destiny. James places them firmly under their Creator. God made the lights; they do not govern Him, and changing celestial movements do not alter His disposition toward His children.\n\nThe heavenly lights move across the sky and cast shadows that lengthen, shorten, and turn. God’s goodness has no corresponding fluctuation. He is not generous one day and malicious the next. His unchangeableness does not mean that He is distant or unresponsive. It means His actions remain consistently faithful to His holy and loving character. He may discipline, judge, forgive, or restore according to the situation, but He never becomes the author of evil.\n\nThis constancy is the foundation for prayer and endurance. Believers facing changing circumstances can rely on an unchanging Giver. Feelings may shift, resources may disappear, and human support may fail, yet the Father’s character remains stable. Faith is able to endure because the One in whom it rests has no shadow of moral turning.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "τοῦ πατρὸς τῶν φώτων (tou patros tōn phōtōn) — Father of lights",
+          "explanation": "The title presents God as Creator and ruler of the heavenly lights—the sun, moon, and stars. He is not governed by celestial bodies, fate, or changing cosmic influences.",
+          "scriptureReferences": [
+            "Genesis 1:14-18",
+            "Psalm 136:7-9"
+          ]
+        },
+        {
+          "term": "οὐκ ἔνι παραλλαγὴ ἢ τροπῆς ἀποσκίασμα (ouk eni parallagē ē tropēs aposkiasma) — no variableness, neither shadow of turning",
+          "explanation": "The astronomical language contrasts God with moving lights and shifting shadows. His holy character and generous purpose do not fluctuate.",
+          "scriptureReferences": [
+            "Numbers 23:19",
+            "Malachi 3:6"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:18",
+      "bibleText": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "John 3:3-8",
+        "Ephesians 1:13",
+        "1 Peter 1:23-25",
+        "Romans 8:19-23",
+        "Revelation 14:4"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The strongest example of God’s good giving is the new birth of His people. The contrast with verse 15 is deliberate. Sinful desire conceives and produces death; God acts according to His own gracious will and brings forth a people destined for life.\n\n“Of his own will” places the initiative in God. New birth is not a reward for moral achievement or a human discovery produced independently of grace. God purposes, calls, and gives life. Human beings truly respond in faith and repentance, but their response does not place God under obligation or create the saving word. Salvation begins in His merciful intention.\n\nThe instrument is “the word of truth,” the message concerning God’s saving work in Jesus Christ. The word does more than convey religious information. Through it God confronts sin, reveals Christ, awakens faith, and creates a new relationship with Himself. The same word that gives birth will soon be described as implanted within believers and able to save them. New birth therefore begins a life of continuing reception and obedience rather than making further growth unnecessary.\n\nBelievers are “a kind of firstfruits of his creatures.” The image points both to consecration and expectation. The first portion of a harvest belonged to God and indicated that more was to come. Those born through the gospel belong to Him in a special way, and their renewed lives anticipate His purpose to liberate creation from corruption.\n\nThe firstfruits are not yet the completed harvest. Christians still endure trials, resist temptation, and await resurrection and the restoration of all things. Yet God’s future has already entered the present through the new birth. Every life transformed by the word becomes an early sign of the world God will finally make new. This identity also creates responsibility: those set apart as firstfruits must display the character of the coming creation through holiness, mercy, truth, and faithful obedience.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "λόγῳ ἀληθείας (logō alētheias) — word of truth",
+          "explanation": "The expression denotes God’s true saving message, particularly the gospel through which people are called to faith and new life.",
+          "scriptureReferences": [
+            "Ephesians 1:13",
+            "Colossians 1:5"
+          ]
+        },
+        {
+          "term": "ἀπαρχήν τινα (aparchēn tina) — a kind of firstfruits",
+          "explanation": "Firstfruits were the initial portion of a harvest offered to God and served as a pledge of the harvest to follow. Believers are consecrated to God and anticipate the wider renewal of creation.",
+          "scriptureReferences": [
+            "Romans 8:23",
+            "1 Corinthians 15:20"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:19",
+      "bibleText": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Proverbs 10:19",
+        "Proverbs 17:27-28",
+        "Ecclesiastes 5:2",
+        "James 3:1-2"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The transition follows naturally from the “word of truth.” Those whom God has brought forth by His word must remain eager to hear it. The instruction also governs relationships within the believing community, where teachability, speech, and anger profoundly affect whether the word bears fruit.\n\nTo be “swift to hear” means more than receiving sound through the ear. It describes readiness to attend, understand, and submit. A person who approaches Scripture only to defend existing opinions is not truly quick to hear. Neither is one who listens to another person merely while preparing a reply. Spiritual wisdom begins with humility before God’s revelation and patient attention to those made in His image.\n\nBeing “slow to speak” does not forbid teaching, testimony, correction, or courageous truth-telling. James himself speaks with great directness. The command restrains impulsive, self-important, and poorly considered words. Speech should follow listening and discernment rather than outrun them. This is especially important in religious settings, where people may mistake confidence, volume, or speed for wisdom.\n\n“Slow to wrath” completes the sequence. Failure to listen often produces hasty speech, and hasty speech easily inflames anger. Wrath narrows perception until the person hears only what confirms resentment. James will later connect heavenly wisdom with gentleness and peace, while selfish desire produces conflict.\n\nThe three commands reveal an ordered heart: open toward God’s word, restrained in self-expression, and governed rather than driven by emotion. Such discipline is not weakness. It requires the strength to pause, listen, and surrender the desire to control the conversation or vindicate oneself immediately. The implanted word flourishes in that receptive soil.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "ταχὺς εἰς τὸ ἀκοῦσαι, βραδὺς εἰς τὸ λαλῆσαι, βραδὺς εἰς ὀργήν (tachys eis to akousai, bradys eis to lalēsai, bradys eis orgēn) — swift to hear, slow to speak, slow to wrath",
+          "explanation": "The three-part instruction calls for eager receptivity, disciplined speech, and restraint of anger. Hearing is especially connected with receiving the word mentioned in verses 18 and 21.",
+          "scriptureReferences": [
+            "Proverbs 18:13",
+            "Ecclesiastes 5:2"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:20",
+      "bibleText": "For the wrath of man worketh not the righteousness of God.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Proverbs 14:29",
+        "Proverbs 15:18",
+        "Ephesians 4:26-32",
+        "James 3:17-18"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "James explains why anger must be restrained: human wrath does not accomplish God’s righteousness. Anger often feels morally powerful. A person may believe that intensity proves sincerity or that outrage guarantees justice. Yet fallen anger easily becomes self-centered, exaggerated, vindictive, and resistant to correction.\n\n“The righteousness of God” here most naturally means the righteous character and just result God desires and produces. James is not discussing the gift of justification in technical terms. He is asking whether angry human action creates the kind of life that reflects God’s will. His answer is no.\n\nScripture recognizes forms of righteous indignation, particularly opposition to cruelty, oppression, and dishonor toward God. Even such anger must remain governed by love, truth, and submission. Once anger becomes a means of exalting self, humiliating an opponent, or excusing destructive speech, it no longer serves divine righteousness.\n\nGod’s justice grows through the wisdom from above—purity, peace, gentleness, mercy, and good fruit. This does not require passivity toward evil. It requires confronting evil in ways consistent with God’s character. Human wrath cannot be baptized merely by attaching a religious cause to it. The manner of the response matters as truly as the cause being defended.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "δικαιοσύνην θεοῦ (dikaiosynēn theou) — the righteousness of God",
+          "explanation": "In this context the phrase most naturally refers to the righteous conduct and just outcome that accord with God’s will. Human rage cannot produce the life God approves.",
+          "scriptureReferences": [
+            "Matthew 6:33",
+            "James 3:18"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:21",
+      "bibleText": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Jeremiah 31:33",
+        "Matthew 13:23",
+        "Colossians 3:8-10",
+        "1 Peter 1:23",
+        "James 3:13"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Because anger cannot produce God’s righteousness, believers must put away what prevents the word from bearing fruit. “Lay apart” evokes removing soiled clothing. Repentance is not merely regretting consequences; it involves discarding practices and attitudes that contradict the new identity God has given.\n\n“Filthiness” describes moral uncleanness, while “superfluity of naughtiness” refers to the abundance or overflow of wickedness. The KJV wording does not mean that only an unnecessary remainder of evil must be removed, as though a moderate amount could be retained. James calls for the rejection of every growth of wickedness that crowds the heart and resists God’s rule.\n\nThe positive command is to receive the implanted word “with meekness.” Meekness is not timidity or lack of conviction. It is humble teachability—the opposite of the anger, pride, and divided loyalty already condemned. The meek person does not sit in judgment over God’s word but permits the word to judge, correct, and reshape the life.\n\nThe word has already been planted, for God brought believers forth through the word of truth. Yet they must continue receiving it. Divine initiative and human response remain joined. God plants and empowers; believers welcome, retain, and obey. A past reception of the gospel does not justify present resistance to its demands.\n\nThe implanted word “is able to save your souls.” Its saving power belongs to God, not to ink, sound, or information considered apart from Him. Through the word, Christ is revealed, faith is awakened, sin is exposed, and the path of life is made known. “Souls” refers to the persons themselves. James’s hope is deliverance of the whole human being from sin and death, culminating in eternal life at the resurrection, rather than the escape of a naturally immortal component from the body.\n\nThe statement also guards against separating salvation from transformation. The word that saves is the word that must be meekly received and actively obeyed. Obedience does not purchase salvation; it is the response through which saving grace continues its work in the believer.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "τὸν ἔμφυτον λόγον (ton emphyton logon) — the engrafted word",
+          "explanation": "The phrase means the implanted word—the divine message planted and rooted within the receptive heart. It is not naturally inborn human wisdom but a gift received from God.",
+          "scriptureReferences": [
+            "Jeremiah 31:33",
+            "Matthew 13:23"
+          ]
+        },
+        {
+          "term": "σῶσαι τὰς ψυχὰς ὑμῶν (sōsai tas psychas hymōn) — save your souls",
+          "explanation": "Psychē can denote the person or life. James speaks of God saving the whole person from sin and death, not of an inherently immortal entity possessing life independently of resurrection.",
+          "scriptureReferences": [
+            "Matthew 16:25",
+            "James 5:20"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:22",
+      "bibleText": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Matthew 7:21",
+        "Matthew 7:24-27",
+        "Luke 11:28",
+        "Ephesians 2:8-10",
+        "James 2:14-18"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "Receiving the implanted word necessarily leads to doing it. James does not contrast faith with obedience; he contrasts genuine reception with hearing that leaves the will unchanged. The command “be ye doers” may also carry the sense of becoming and continuing as people whose characteristic response to God’s word is action.\n\nHearing possessed genuine importance in a culture where Scripture was commonly read and taught aloud. Yet regular presence in worship, familiarity with biblical language, or pleasure in religious instruction could create a dangerous illusion. A person may feel spiritually enriched because truth has been heard while remaining unchanged in conduct.\n\nSuch a hearer deceives himself. The deception is especially serious because it often appears religious. He may affirm correct doctrine, recognize moral beauty, and even speak enthusiastically about the message. Nevertheless, he has miscalculated the meaning of discipleship. Jesus similarly distinguished between those who hear His sayings and do them and those who hear but build on sand.\n\nJames is not teaching salvation by meritorious works. The order of the chapter prevents that conclusion. God gives new birth by His own will, the word is implanted by grace, and that word possesses saving power. Obedience follows as the necessary expression of the life already received. It is not the price of new birth but its fruit.\n\nA faith that never enters action remains only profession. Genuine trust responds because it recognizes the Speaker as Lord. The doing James requires includes controlled speech, mercy toward the vulnerable, moral purity, impartial love, and practical care for needy believers. These actions do not replace faith; they make visible what living faith is. Where there is repeated failure, grace calls for repentance and growth. Where there is settled refusal to obey, the claim of having received the word is exposed as self-deception.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "παραλογιζόμενοι ἑαυτούς (paralogizomenoi heautous) — deceiving your own selves",
+          "explanation": "The verb suggests faulty reasoning or miscalculation. Hearers can reason themselves into believing that exposure to truth is equivalent to obedience to truth.",
+          "scriptureReferences": [
+            "Colossians 2:4",
+            "James 1:26"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:23",
+      "bibleText": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Ezekiel 33:31-32",
+        "2 Corinthians 3:18",
+        "James 1:25"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "James illustrates hearing without doing through the familiar act of looking into a mirror. Ancient mirrors were commonly made from polished metal. They did not provide the effortless clarity of modern glass, but they enabled a person to recognize his appearance and respond accordingly.\n\nThe word functions like a mirror because it discloses reality. It reveals God’s character and will, but it also exposes the hearer. In its light, hidden motives, divided loyalties, uncontrolled speech, neglected duties, and cherished desires become visible. It also reveals what grace intends the believer to become—a person restored toward the likeness of God.\n\nThe problem is not that the man sees nothing. He beholds his natural face. The disclosure is genuine. His failure lies in what follows: recognition produces no lasting response. In the same way, a sermon may trouble the conscience, Scripture may identify a specific sin, or truth may clarify a neglected responsibility. Momentary recognition is not yet obedience.\n\nThe comparison warns against confusing spiritual impressions with transformation. Conviction can be resisted, admired, postponed, or replaced by discussion. The word accomplishes its practical purpose when the hearer remains before it long enough to repent, believe, and act.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "τὸ πρόσωπον τῆς γενέσεως αὐτοῦ (to prosōpon tēs geneseōs autou) — his natural face",
+          "explanation": "Literally “the face of his birth,” the expression refers to a person’s ordinary, natural appearance—the face with which he was born.",
+          "scriptureReferences": [
+            "Genesis 5:3",
+            "James 3:9"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:24",
+      "bibleText": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Ezekiel 33:31-32",
+        "Luke 6:46-49",
+        "Hebrews 2:1"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The man looks, departs, and immediately forgets what kind of person he saw. The forgetting is more than a failure to remember physical features. It is practical neglect. He behaves as though the mirror had revealed nothing requiring attention.\n\nSo it is possible to leave the hearing of God’s word with accurate information while abandoning its claim upon the life. Delay assists the deception. Conviction that is not acted upon quickly loses urgency, and the hearer returns to familiar patterns.\n\nThe phrase “what manner of man he was” gives the mirror moral depth. God’s word exposes not only isolated actions but the kind of person being formed through them. The hearer may glimpse impatience, pride, partiality, impurity, or lack of mercy, yet walk away without repentance.\n\nJames therefore calls for more than repeated exposure. Hearing must be joined to remembrance, and remembrance must take the form of obedience. Otherwise even clear spiritual insight becomes part of the self-deception.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:25",
+      "bibleText": "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Psalm 19:7-11",
+        "Psalm 119:44-45",
+        "John 8:31-36",
+        "Romans 8:2-4",
+        "James 2:8-12"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "The second person in the comparison responds very differently. He looks intently into the “perfect law of liberty,” remains there, remembers what he hears, and puts it into practice. The contrast is not between someone who barely examines Scripture and someone who studies for intellectual mastery. It is between departing from the word unchanged and continuing under its authority.\n\nJames has described the same divine revelation as the word of truth, the implanted word, and now the perfect law. These descriptions belong together. The message that announces God’s saving action also reveals His will for the lives He saves. Grace and moral obedience are not enemies. God does not give new birth and then leave the renewed person without direction.\n\nThe law is “perfect” because it expresses God’s good purpose and leads toward the mature wholeness introduced in verse 4. James will soon identify love for one’s neighbor as the royal law and cite commandments against adultery and murder. He therefore cannot mean that grace has abolished God’s moral will. The law is understood through the teaching and lordship of Jesus, written upon the receptive heart, and fulfilled in love.\n\nIt is also a law “of liberty.” Sin promises freedom while producing slavery to desire, fear, pride, and death. God’s law exposes that bondage and directs the redeemed person into freedom—the ability, supplied by grace, to love God and neighbor according to the Creator’s design. Liberty is not autonomy from God; it is restoration to willing fellowship with Him. A musician is free to make music not by rejecting every principle of music but by living within its truth. In a far deeper sense, humanity becomes free by being restored to God’s order.\n\nThe person “continueth therein.” Perseverance matters because obedience is not a momentary reaction. The word must remain present in memory, reflection, decision, and habit. Such a person becomes “a doer of the work,” indicating that genuine hearing takes concrete form.\n\n“He shall be blessed in his deed” does not make obedience a purchase price for salvation. God has already acted graciously in giving birth and implanting the saving word. The blessing accompanies the life of obedient faith. Conduct will also matter in judgment, as James 2:12 makes explicit, because works reveal whether faith has remained living. Christ alone is the ground of salvation; the transformed life is the fruit and evidence of union with Him.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "παρακύψας (parakypsas) — looketh into",
+          "explanation": "The verb can describe bending down or peering intently in order to examine something carefully. It suggests sustained attention rather than a passing glance.",
+          "scriptureReferences": [
+            "John 20:5",
+            "1 Peter 1:12"
+          ]
+        },
+        {
+          "term": "νόμον τέλειον τὸν τῆς ἐλευθερίας (nomon teleion ton tēs eleutherias) — the perfect law of liberty",
+          "explanation": "God’s revealed will is perfect and gives liberty because, received through grace, it directs people away from sin’s bondage into the life for which they were created. James later connects this law with love and specific moral commandments.",
+          "scriptureReferences": [
+            "Psalm 119:44-45",
+            "James 2:8-12"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:26",
+      "bibleText": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Psalm 39:1",
+        "Proverbs 10:19",
+        "Matthew 12:34-37",
+        "James 3:2-10"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "James now provides a concrete test of religious profession. A person may consider himself devout because he attends worship, knows Scripture, prays publicly, observes religious practices, or speaks frequently about spiritual matters. Yet uncontrolled speech can expose the emptiness beneath that appearance.\n\nTo bridle the tongue is not to remain silent at all times. A bridle enables direction. Speech must be brought under the lordship of Christ so that truth is spoken with love, correction with humility, and necessary restraint with wisdom. Angry attacks, gossip, slander, boastfulness, careless promises, and pious words contradicted by conduct all reveal a deeper disorder of the heart.\n\nThe unbridled person “deceiveth his own heart.” Others may already recognize the inconsistency, but he has interpreted religious activity as evidence that all is well. James dismantles that assumption. Worship that never reaches the tongue has not reached one of the most revealing areas of life.\n\n“This man’s religion is vain” means empty, futile, or without the result it claims to possess. James is not declaring that one verbal failure proves a person has never known grace. He will later acknowledge that all stumble in many things. The warning concerns a settled refusal to bring speech under God’s control while continuing to claim spiritual maturity.\n\nThe tongue becomes an early measure of whether the word has been received with meekness. Where grace rules the heart, repentance will follow sinful speech, reconciliation will be sought, and increasing restraint will become visible. A religion that leaves speech permanently untouched is profession without transforming power.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "θρῆσκος ... θρησκεία (thrēskos ... thrēskeia) — religious ... religion",
+          "explanation": "The terms emphasize observable religious devotion or practice. James tests outward piety by whether it is joined to inward transformation and obedient conduct.",
+          "scriptureReferences": [
+            "Acts 26:5",
+            "Colossians 2:18"
+          ]
+        },
+        {
+          "term": "χαλιναγωγῶν (chalinagōgōn) — bridleth",
+          "explanation": "The verb means to control with a bridle. Speech is pictured as a powerful force that must be directed rather than allowed to run according to impulse.",
+          "scriptureReferences": [
+            "James 3:2-3",
+            "Psalm 141:3"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    },
+    {
+      "verse": "James 1:27",
+      "bibleText": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.",
+      "explanation": "",
+      "historicalBackground": "",
+      "literaryContext": "",
+      "theologicalInsight": "",
+      "structuralNotes": "",
+      "relatedConnection": "",
+      "crossReferences": [
+        "Deuteronomy 10:18",
+        "Psalm 68:5",
+        "Isaiah 1:16-17",
+        "Matthew 25:35-40",
+        "John 17:15-18"
+      ],
+      "application": "",
+      "sources": [],
+      "commentary": {
+        "detailedExplanation": "James concludes the chapter by describing religion as God evaluates it. “Pure religion and undefiled” is not an exhaustive definition of Christian faith. Nothing here minimizes worship, prayer, doctrine, baptism, fellowship, or proclamation of the gospel. James selects decisive evidences that reveal whether outward devotion corresponds to the Father’s character.\n\nThe standard is what is pure “before God and the Father,” not what appears impressive before human observers. God sees both action and motive. Charitable activity pursued for reputation may gain public praise without expressing pure devotion. True religion acts from love awakened by grace and seeks the good of the vulnerable even when no social advantage follows.\n\n“To visit the fatherless and widows” means to enter their distress with practical care. In the biblical world, orphans and widows commonly lacked the household protection, economic security, and legal influence available to others. They therefore became representative of people unable to defend themselves against neglect and exploitation. God identifies Himself as Father of the fatherless and defender of widows; His children are to reflect that concern.\n\nCare may include presence, food, shelter, protection, advocacy, financial support, and incorporation into the life of the believing community. A polite expression of sympathy that leaves suffering untouched does not satisfy the command. The next chapter will make the same point by condemning words of peace offered to needy believers without supplying what their bodies require.\n\nPure religion also keeps oneself “unspotted from the world.” The world here is not the created earth or the people whom God loves. It is the system of desires, values, and loyalties organized in resistance to Him—pride, partiality, greed, impurity, rivalry, and self-exaltation. Jesus prayed that His followers would remain in the world while being protected from its evil. James likewise calls for moral distinction without withdrawal from human need.\n\nCompassion and holiness must remain together. Care for the vulnerable without personal faithfulness can become public benevolence detached from God. Claims of private purity without mercy become sterile religion. The word of truth produces both: hands extended toward the afflicted and a life guarded from the world’s stain.\n\nThese works do not purchase God’s acceptance. They arise because the Father has graciously given new birth and implanted His saving word. Mercy and holiness are the living form of faith—the evidence that the hearer has remained before the perfect law of liberty and has become a doer of the work.",
+        "exegesis": "",
+        "historicalBackground": "",
+        "technicalNotes": "",
+        "theologicalInsight": "",
+        "structuralNotes": "",
+        "otherCommentaryInsights": "",
+        "application": "",
+        "reviewFlags": []
+      },
+      "wordNotes": [
+        {
+          "term": "ἐπισκέπτεσθαι (episkeptesthai) — to visit",
+          "explanation": "The verb means more than paying a social call. It includes looking after, caring for, and acting to meet a person’s need.",
+          "scriptureReferences": [
+            "Luke 1:68",
+            "Acts 15:36"
+          ]
+        },
+        {
+          "term": "ἄσπιλον (aspilon) — unspotted",
+          "explanation": "The adjective means unstained or without moral blemish. James calls believers to resist contamination by the world’s rebellious values while remaining actively present among people in need.",
+          "scriptureReferences": [
+            "1 Timothy 6:14",
+            "2 Peter 3:14"
+          ]
+        }
+      ],
+      "sourceAudit": {
+        "exegesis": [],
+        "historicalBackground": [],
+        "technicalNotes": [],
+        "theologicalInsight": [],
+        "structuralNotes": [],
+        "otherCommentaryInsights": [],
+        "application": []
+      },
+      "reviewStatus": "verified-seed"
+    }
+  ],
+  "symbols": [],
+  "charts": [],
+  "images": [],
+  "crossReferences": [
+    "Matthew 5:1-12",
+    "Romans 5:1-5",
+    "1 Peter 1:3-9",
+    "1 John 2:15-17",
+    "Proverbs 2:1-11",
+    "Isaiah 1:16-17"
+  ],
+  "relatedConnections": [
+    {
+      "sourceText": "James 1:2-4",
+      "relatedText": "Romans 5:3-5",
+      "sources": []
+    },
+    {
+      "sourceText": "James 1:22-25",
+      "relatedText": "Matthew 7:24-27",
+      "sources": []
+    },
+    {
+      "sourceText": "James 1:27",
+      "relatedText": "Isaiah 1:16-17",
+      "sources": []
+    }
+  ],
+  "teachingNotes": {
+    "openingQuestion": "What changes when a believer evaluates hardship by what God may form through it rather than by discomfort alone?",
+    "mainPoint": "The word by which God gives life forms a whole, steadfast faith that seeks wisdom, resists disordered desire, governs speech, and acts in mercy.",
+    "keyVerses": [
+      "James 1:5",
+      "James 1:17-18",
+      "James 1:22",
+      "James 1:27"
+    ],
+    "importantTerms": [
+      "steadfastness",
+      "wisdom",
+      "double minded",
+      "word of truth",
+      "law of liberty",
+      "pure religion"
+    ],
+    "discussionQuestions": [
+      "How does James distinguish a trial from an enticement to evil?",
+      "Why can God’s instruction be called a law of liberty?",
+      "Where does James locate the danger of self-deception?",
+      "How do speech, mercy, and holiness test the reality of worship?"
+    ],
+    "commonMisunderstandings": [
+      "Counting a trial as joy does not require enjoying pain, denying grief, or calling evil good.",
+      "Asking in faith is not a technique for forcing God to grant every desired outcome.",
+      "God may test faith, but James denies that God entices anyone to sin.",
+      "Being a doer does not earn the new birth; obedient action expresses reception of the saving word."
+    ],
+    "emphasis": "Keep God’s initiative and the believer’s response together: the Father gives wisdom and new birth, and his word calls forth steadfast, concrete obedience.",
+    "closingAppeal": "Ask the generous Father for undivided wisdom, welcome his word with humility, and let today’s hearing become faithful action."
+  },
+  "evangelisticNotes": {
+    "mainDoctrinalTheme": "The unchanging Father gives new life through the word of truth, and that gift begins to produce a coherent life of trust and obedience.",
+    "keyBibleTexts": [
+      "James 1:17-18",
+      "James 1:21",
+      "John 1:12-13",
+      "1 Peter 1:23-25"
+    ],
+    "flow": [
+      "Disordered desire gives birth to sin and death.",
+      "God, by contrast, is the unchanging source of every good gift.",
+      "By his own will he brings people forth through the word of truth.",
+      "Those made alive receive that word humbly and begin to do what it says."
+    ],
+    "simpleIllustrations": [
+      "A mirror can reveal what needs attention, but the glance helps only when the person acts on what was seen.",
+      "Seed implanted in good soil is living and fruitful; the word received in meekness is meant to shape a life."
+    ],
+    "appealQuestion": "Will you receive the Father’s life-giving word and entrust your whole, undivided self to him?",
+    "cautions": [
+      "Do not present hardship as proof that grief or lament is faithless.",
+      "Do not imply that moral effort creates the new birth James attributes to God’s will and word.",
+      "Do not promise that faithful prayer guarantees a preferred material result."
+    ],
+    "sources": []
+  },
+  "reflectionQuestions": [
+    "Which present trial most exposes my need for wisdom, and have I asked God with a willingness to follow his direction?",
+    "Where am I tempted to blame circumstances or others instead of naming the desire that gives temptation power?",
+    "What does my speech reveal about how deeply I have received the word?",
+    "What truth have I recently heard but not yet carried into action?",
+    "Who near me lacks ordinary protection or support, and what would attentive care require?",
+    "Which worldly measure of worth most threatens to divide my loyalty?"
+  ],
+  "sources": []
+}
